@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic86-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c6bd911-f40b-499d-bbbe-21552f12e706",
+		"tenantId": "620b4332-be7e-401b-a937-de3f56fffd87"
+	}
+}
