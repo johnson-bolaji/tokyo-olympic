@@ -1,0 +1,12 @@
+{
+	"name": "HttpServer1",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/johnson-bolaji/tokyo-olympic/main/data/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
